@@ -19,11 +19,13 @@ I design & implement conduits of information that make complex data available to
 
 ## Projects
 
-* [InfluenceExplorer](http://influenceexplorer.com)
+Note: many of these links are to archived versions of the sites, due to the closing of [Sunlight Labs](https://sunlightfoundation.com/2016/09/21/whats-next-for-sunlight-labs/)
+
+* [InfluenceExplorer](https://web.archive.org/web/20161109191617/http://influenceexplorer.com/)
 * [pyopenfec](https://github.com/jeremyjbowers/pyopenfec)
 * [influence-usa](https://github.com/influence-usa)
-* [State of the Union Machine](http://sotu.sunlightfoundation.com/)
-* [Ad Hawk](http://adhawk.sunlightfoundation.com)
+* [State of the Union Machine](https://web.archive.org/web/20160921012009/http://sotu.sunlightfoundation.com/)
+* [Ad Hawk](https://web.archive.org/web/20130421112353/http://adhawk.sunlightfoundation.com/about/)
 
 ## Publications
 
