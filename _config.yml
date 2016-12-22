@@ -1,0 +1,8 @@
+title: Bob Lannon
+description: Data Engineer at Picwell
+google_analytics: UA-51138187-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
