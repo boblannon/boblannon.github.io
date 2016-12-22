@@ -29,6 +29,8 @@ I design & implement conduits of information that make complex data available to
 
 * Freelon, D., Becker, A., Lannon, B., & Pendleton, A. (2016). [Narrowing the Gap:
 Gender and Mobilization in Net Neutrality Advocacy](http://ijoc.org/index.php/ijoc/article/view/4598/1867). International Journal Of Communication, 10, 23.
+* Hasty, D., Hesson, A., Wagner, S. & Lannon, R (2012). [Finding needles in the right haystack: Double modals in medical consultations](http://repository.upenn.edu/pwpl/vol18/iss2/6/). Penn Working Papers in Linguistics, 18.
+* McDonough, C., Song, L., Hirsh-Pasek, K., Golinkoff, R. & Lannon,R (2011). [An image is worth a thousand words: why nouns tend to dominate verbs in early word learning](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2010.00968.x/full). Developmental Science,14.
 
 ## Works in Progress
 
