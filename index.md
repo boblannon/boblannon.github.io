@@ -43,7 +43,7 @@ Gender and Mobilization in Net Neutrality Advocacy](http://ijoc.org/index.php/ij
 
 * [1,674,385 Public Reply Comments on Net Neutrality](http://openinternet-pt2.widgets.sunlightfoundation.com.s3.amazonaws.com/index.html)
 * [800,000 Public Comments on Net Neutrality](https://s3.amazonaws.com/openinternet.widgets.sunlightfoundation.com/index.html)
-* [Political Influence by County: A New Way to Look at Campaign Finance Data](http://sunlightfoundation.com/blog/2013/10/23/political-influence-by-county-a-new-way-to-look-at-campaign-finance-data/)
+* [Political Influence by County: A New Way to Look at Campaign Finance Data](http://sunlightfoundation.com/blog/2013/10/23/political-influence-by-county-a-new-way-to-look-at-campaign-finance-data/) (charts are broken due to HTTPS: see [this example](http://assets.sunlightfoundation.com.s3.amazonaws.com/blog/azavea_maps/pres.html))
 * [Summary Charts for Campaign Finance Aggregates](http://influenceexplorer.com/industries?cycle=2012)
 * [Explore Gun Influence, State by State](http://sunlightfoundation.com/blog/2013/12/10/explore-gun-influence-state-by-state/)
 * [Majority of states prohibit access to gun records](http://sunlightfoundation.com/blog/2013/01/18/majority-states-and-counting-dont-allow-gun-records-be-public/)
