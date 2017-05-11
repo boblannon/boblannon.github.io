@@ -1,10 +1,8 @@
 ## About
 
-I'm a software developer with a background in natural language processing, statistics, and machine learning. I work at all levels of the web development stack, including server maintenance, deployment, database administration, back-end development, API design, and front-end development. 
+I'm a software developer with a background in natural language processing, statistics, and machine learning. I've contributed my data science skills to introduce real, pragmatic solutions to difficult problems in data processing and analysis. I also have experience performing exploratory data mining and creating interactive visualizations. I have developed and maintained data-intensive web apps, and have also pursued novel methods of acquiring and mining new data.
 
-In addition, I've contributed my data science skills to introduce real, pragmatic solutions to difficult problems in data processing and analysis. I also have experience performing exploratory data mining and creating interactive visualizations.
-
-I design & implement conduits of information that make complex data available to experts who are researching it and non-experts interested in experts' interpretations. I have developed and maintained data-intensive web apps, and have also pursued novel methods of acquiring and mining new data.
+My passion is designing & building conduits of information. The goal is to make complex data available to experts who are researching it. Hopefully, this in turn empowers them to reach and educate non-experts.
 
 ## Social
 
