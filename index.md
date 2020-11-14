@@ -13,7 +13,7 @@ My passion is designing & building conduits of information. The goal is to make 
 
 ## Employer
 
-[Mapbox](https://www.mapbox.com/) (Geocoding Team)
+[Blackfynn](https://www.blackfynn.com)
 
 ## Projects
 
